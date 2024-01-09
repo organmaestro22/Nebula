@@ -74,5 +74,7 @@
     "catppuccinMacchiato": "Catppuccin Macchiato",
     "catppuccinFrappe": "Catppuccin Frappe",
     "catppuccinLatte": "Catppuccin Latte"
-  }
+  },
+  "clipboard": "URL copied to clipboard!",
+  "bareError": "That didn't quite work. Double check that the bare server exists and isn't blocked."
 }
